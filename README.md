@@ -1,16 +1,18 @@
-### Hi there 👋
+# ツキミヤのあれこれ集
 
-<!--
-**deceitya/deceitya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Twitter](https://twitter.com/deceitya)
+ツイ廃です。
 
-Here are some ideas to get you started:
+### [月宮計画Discord](https://discord.gg/c3XCeE9)
+月宮計画とは、永遠開発中のMCBEマルチプレイサーバーです。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Magicales](https://github.com/deceitya/Magicales)
+オープンソースで開発してるPvP鯖のリポジトリです。
+
+### [PMMPプラグイン配布所](/PMMP.md)
+今までに作成したMCBEサーバー用のプラグイン集です。  
+最強プラグインがおっぱお
+
+### [UTAUプラグイン配布所](/UTAU.md)
+最近作り始めたので質は悪しからず。  
+配布サイトとか活発なコミュニティとかあったら教えてください。
