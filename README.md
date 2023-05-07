@@ -1,9 +1,5 @@
-<div align="center">
-  <img src="https://pbs.twimg.com/profile_images/1567077852453179395/Y5ku8rsO_400x400.jpg">
-</div>
-
 <h2 align="center">
-  DECEITYA a.k.a TSUKIMIYA
+  なんか凄そうなプロフィール
 </h2>
 
 [![](https://komarev.com/ghpvc/?username=deceitya)](https://github.com/deceitya)
